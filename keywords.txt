@@ -1,0 +1,19 @@
+###########################################
+# Syntax Coloring Map For PIDCmd
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+PIDCmd	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+
+setTolerance	KEYWORD2
+isInSetpoint	KEYWORD2
+PIDCalc		KEYWORD2
+reset	KEYWORD2
